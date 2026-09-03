@@ -3,7 +3,7 @@
 A Streamlit prototype of an AI-enabled CFO cockpit for a European bank. The application converts synthetic banking data into a morning health check, interactive stress testing, forward-looking forecasts, and a conversational financial assistant.
 
 > **Disclaimer**  
-> All data, scenarios, thresholds, calculations and outputs in this repository are synthetic and illustrative. They are calibrated only to approximate the scale of a Dutch universal bank. They do **not** represent ABN AMRO data, internal models, approved risk appetite, regulatory requirements, or financial advice.
+> All data, scenarios, thresholds, calculations and outputs in this repository are synthetic and illustrative. They are calibrated only to approximate the scale of a Dutch universal bank.
 
 ## Problem
 
